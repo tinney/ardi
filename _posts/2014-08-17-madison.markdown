@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Madison"
+day:  "One"
+date:   2014-08-17
+categories: zutroadtrip
+---
+
+<div class="post__image--header">
+  <img src="/assets/images/day1/1.jpg" />
+</div>
+<div class="post__image--grid">
+  <img src="/assets/images/day1/2.jpg" />
+  <img src="/assets/images/day1/3.jpg" />
+  <img src="/assets/images/day1/4.jpg" />
+</div>
