@@ -1,0 +1,48 @@
+.post__header {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: $spacing-unit/2;
+  width: 100%;
+
+  h2 {
+    font-size: 1.8rem;
+    font-family: 'Open Sans Condensed';
+    text-align: center;
+    margin-bottom: -.5rem;
+  }
+
+  .post__meta {
+    font-size: .85rem;
+    font-family: 'Dancing Script';
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+  }
+}
+
+.post__content { margin-top: $spacing-unit; }
+
+
+.post__image {
+  width: 100%;
+  padding-bottom: $spacing-unit / 4;
+}
+
+.post__image--header {
+  @extend .post__image;
+  img { width: 100%; }
+}
+
+.post__image--grid {
+  @extend .post__image;
+  img {
+    width: 30%;
+    &:nth-child(1) { padding-right: $spacing-unit / 4; }
+  }
+}
+
+.post__image--footer {
+  @extend .post__image;
+  overflow: hidden;
+  height: 25rem;
+  img { width: 100%; }
+}

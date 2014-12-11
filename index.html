@@ -1,23 +1,14 @@
 ---
 layout: default
 ---
-
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  {% for post in site.posts reversed %}
+    <div class="post">
+      <div class="post__header">
+        <h2>Day {{ post.day }} - {{ post.title }}</h2>
+        <span class="post__meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </div>
+      <div class="post__content">{{ post.content }}</div>
+    </div>
+  {% endfor %}
 </div>

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Badlands"
+day:  "Two"
+date:   2014-08-18
+categories: national park
+---
+
+<div class="post__image--header">
+  <img src="/assets/images/badlands/4.jpg" />
+</div>
+<div class="post__image--grid">
+  <img src="/assets/images/badlands/1.jpg" />
+  <img src="/assets/images/badlands/2.jpg" />
+</div>
+
+<div class="post__image--footer">
+  <img src="/assets/images/badlands/3.jpg" style="margin-top: -20rem;"/>
+</div>
