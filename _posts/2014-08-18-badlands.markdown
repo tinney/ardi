@@ -15,5 +15,5 @@ categories: national park
 </div>
 
 <div class="post__image--footer">
-  <img src="/assets/images/badlands/3.jpg" style="margin-top: -20rem;"/>
+  <img src="/assets/images/badlands/3.jpg" />
 </div>

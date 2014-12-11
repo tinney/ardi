@@ -42,7 +42,5 @@
 
 .post__image--footer {
   @extend .post__image;
-  overflow: hidden;
-  height: 25rem;
   img { width: 100%; }
 }
