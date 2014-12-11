@@ -7,10 +7,11 @@ categories: zutroadtrip
 ---
 
 <div class="post__image--header">
-  <img src="/assets/images/day1/1.jpg" />
+  <img src="/assets/images/day01/1.jpg" />
 </div>
+
 <div class="post__image--grid">
-  <img src="/assets/images/day1/2.jpg" />
-  <img src="/assets/images/day1/3.jpg" />
-  <img src="/assets/images/day1/4.jpg" />
+  <img src="/assets/images/day01/2.jpg" />
+  <img src="/assets/images/day01/3.jpg" />
+  <img src="/assets/images/day01/4.jpg" />
 </div>
