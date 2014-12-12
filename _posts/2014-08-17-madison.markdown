@@ -10,8 +10,12 @@ categories: zutroadtrip
   <img src="/assets/images/day01/1.jpg" />
 </div>
 
-<div class="post__image--grid">
-  <img src="/assets/images/day01/2.jpg" />
-  <img src="/assets/images/day01/3.jpg" />
-  <img src="/assets/images/day01/4.jpg" />
+<div class="post__image--column">
+  <div class="post__image--column--left">
+    <img src="/assets/images/day01/2.jpg" />
+    <img src="/assets/images/day01/3.jpg" />
+  </div>
+  <div class="post__image--column--right">
+    <img src="/assets/images/day01/4.jpg" />
+  </div>
 </div>

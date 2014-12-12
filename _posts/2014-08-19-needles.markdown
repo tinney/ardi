@@ -1,19 +1,27 @@
 ---
 layout: post
 title:  "Needles"
-day:  "Three"
+day:  "Three & Four"
 date:   2014-08-19
 categories: national park
 ---
 
 <div class="post__image--header">
-<img src="/assets/images/badlands/4.jpg" />
+<img src="/assets/images/day03/top.jpg" />
 </div>
 <div class="post__image--grid">
-<img src="/assets/images/badlands/1.jpg" />
-<img src="/assets/images/badlands/2.jpg" />
+  <img src="/assets/images/day03/1.jpg" />
+  <img src="/assets/images/day03/2.jpg" />
+  <img src="/assets/images/day03/3.jpg" />
+  <img src="/assets/images/day03/4.jpg" />
 </div>
 
-<div class="post__image--footer">
-<img src="/assets/images/badlands/3.jpg" />
+<div class="post__image--column">
+  <div class="post__image--column--left">
+    <img src="/assets/images/day04/1.jpg" />
+    <img src="/assets/images/day04/2.jpg" />
+  </div>
+  <div class="post__image--column--right">
+    <img src="/assets/images/day03/tall.jpg" />
+  </div>
 </div>

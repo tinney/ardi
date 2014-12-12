@@ -7,13 +7,15 @@ categories: national park
 ---
 
 <div class="post__image--header">
-  <img src="/assets/images/day02/4.jpg" />
+<img src="/assets/images/day02/top.jpg" />
 </div>
 <div class="post__image--grid">
   <img src="/assets/images/day02/1.jpg" />
   <img src="/assets/images/day02/2.jpg" />
+  <img src="/assets/images/day02/3.jpg" />
+  <img src="/assets/images/day02/4.jpg" />
 </div>
 
 <div class="post__image--footer">
-  <img src="/assets/images/day02/3.jpg" />
+  <img src="/assets/images/day02/bottom.jpg" />
 </div>

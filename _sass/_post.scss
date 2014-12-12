@@ -1,7 +1,15 @@
+.post {
+  @extend %clearfix;
+  img { display: block; }
+}
+
+
 .post__header {
   background-color: rgba(255, 255, 255, 0.7);
   padding: $spacing-unit/2;
   width: 100%;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 
   h2 {
     font-size: 1.8rem;
@@ -24,7 +32,8 @@
 
 .post__image {
   width: 100%;
-  padding-bottom: $spacing-unit / 4;
+  margin: 0;
+  padding: 0;
 }
 
 .post__image--header {
@@ -35,8 +44,25 @@
 .post__image--grid {
   @extend .post__image;
   img {
-    width: 30%;
-    &:nth-child(1) { padding-right: $spacing-unit / 4; }
+    width: 25%;
+    float: left;
+  }
+}
+
+.post__image--column {
+  @extend .post__image;
+
+  .post__image--column--left {
+    width: 40%;
+    float: left;
+    img { width: 100%; }
+  }
+
+  .post__image--column--right {
+    width: 60%;
+    float: right;
+
+    img { width: 100%; }
   }
 }
 
