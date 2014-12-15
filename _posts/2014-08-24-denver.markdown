@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "City o' City & White Water Drinking"
+day:  "Eight & Nine & Ten"
+date:   2014-08-24
+categories: national park
+description: ""
+---
+
+<div class="post__image--grid">
+  <img src="/assets/images/day09/3.jpg" />
+  <img src="/assets/images/day09/4.jpg" />
+  <img src="/assets/images/day09/2.jpg" />
+  <img src="/assets/images/day09/1.jpg" />
+</div>
