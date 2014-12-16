@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Arches & Maple Canyon"
-day:  "Eleven & Twelve"
-date:   2014-08-26
+title:  "Grand Canyon North & South Rim"
+day:  "Thirteen & Fourteen"
+date:   2014-08-29
 categories: national park
-description: "College move in, no hotels. Rented an amazing cabin up in the mountains of Estes Park.  First time in a hotel since the trip started."
+description: ""
 ---
 
 <div class="post__image--footer">
