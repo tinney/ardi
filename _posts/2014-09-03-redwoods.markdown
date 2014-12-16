@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Redwoods"
+day:  "Nineteen"
+date:   2014-09-03
+categories: national park
+description: "Wonderful"
+---
+
+
+<div class="post__image--column">
+<div class="post__image--column--left">
+<img src="/assets/images/day17/1.jpg" />
+<img src="/assets/images/day17/2.jpg" />
+</div>
+<div class="post__image--column--right">
+<img src="/assets/images/day17/tall.jpg" />
+</div>
+</div>
