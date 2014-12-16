@@ -7,9 +7,18 @@ categories: national park
 description: ""
 ---
 
+<div class="post__image--header">
+<img src="/assets/images/day10/top.jpg" />
+</div>
 <div class="post__image--grid">
   <img src="/assets/images/day09/3.jpg" />
   <img src="/assets/images/day09/4.jpg" />
   <img src="/assets/images/day09/2.jpg" />
   <img src="/assets/images/day09/1.jpg" />
+</div>
+<div class="post__image--grid">
+<img src="/assets/images/day10/3.jpg" />
+<img src="/assets/images/day10/4.jpg" />
+<img src="/assets/images/day10/2.jpg" />
+<img src="/assets/images/day10/1.jpg" />
 </div>

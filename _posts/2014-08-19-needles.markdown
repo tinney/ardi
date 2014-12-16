@@ -10,8 +10,8 @@ categories: national park
 <img src="/assets/images/day03/top.jpg" />
 </div>
 <div class="post__image--grid">
-  <img src="/assets/images/day03/1.jpg" />
-  <img src="/assets/images/day03/2.jpg" />
+  <img src="/assets/images/day03/1_v2.jpg" />
+  <img src="/assets/images/day03/2_v2.jpg" />
   <img src="/assets/images/day03/3.jpg" />
   <img src="/assets/images/day03/4.jpg" />
 </div>
