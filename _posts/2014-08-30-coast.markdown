@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Big Sir @ the Coast"
+day:  "Fifteen & Sixteen"
+date:   2014-08-30
+categories: national park
+description: "Got lucky with that campsite"
+---
+
+<div class="post__image--grid">
+<img src="/assets/images/day15/1.jpg" />
+<img src="/assets/images/day15/2.jpg" />
+<img src="/assets/images/day15/3.jpg" />
+<img src="/assets/images/day15/4.jpg" />
+</div>
+
+<div class="post__image--column">
+<div class="post__image--column--left">
+<img src="/assets/images/day15/5.jpg" />
+<img src="/assets/images/day15/6.jpg" />
+</div>
+<div class="post__image--column--right">
+<img src="/assets/images/day15/tall.jpg" />
+</div>
+</div>
+
+<div class="post__image--header">
+<img src="/assets/images/day15/footer.jpg" />
+</div>
